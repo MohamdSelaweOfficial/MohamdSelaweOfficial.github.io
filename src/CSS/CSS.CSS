@@ -1,0 +1,36 @@
+
+input{
+  color: #000000 ;
+}
+p{
+color: White;
+}
+h3{
+  color: white;
+}
+
+#Log-In{
+  border: 5px;
+  border-color: #000000;
+  border-style: solid;
+  width: 420px;
+  height: 254.4px;
+  opacity: 0.3;
+  background-color: White;
+  position: absolute;
+  top: 300px;
+  right:800px;
+}
+body{
+  background-image: url(../440482.jpg);
+}
+.SP1{
+  position: absolute;
+  top: 300px;
+  right:967px;
+}
+.SP2{
+  position: absolute;
+  top: 485px;
+  right:905px;
+}

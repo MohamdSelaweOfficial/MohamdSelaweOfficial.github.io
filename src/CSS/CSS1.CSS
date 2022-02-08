@@ -1,0 +1,61 @@
+  body{
+        font-size: 20px;
+        background-color: #f4f9fc;
+      }
+      #p1{
+        position: relative;
+        font-family: "Raleway", sans-serif;
+      }
+      #p2{
+        position: relative;
+        left:1739px;
+      }
+      h1{
+        text-decoration: underline;
+        font-family: Bahnschrift;
+      }
+      #p4{
+      position: relative;
+      left: 3px;
+      top: -2px;
+      }
+      #p5{
+        width: 80px;
+        height: 80px;
+        position: relative;
+        left:1663px;
+        top:-68px;
+      }
+
+      section{
+        text-align: center;
+        width: auto;
+        margin: 50px;
+      }
+      section h2{
+        font-weight: bold;
+      }
+      .section-bg{
+        background-color: #f4f9fc
+      }
+      #p9{
+
+      }
+      #p6{
+        height: 275px;
+      }
+      .moving0{
+
+      }
+      .moving{
+
+      }
+      #moving1{
+
+      }
+      .moving2{
+
+      }
+      .moving3{
+        
+      }
