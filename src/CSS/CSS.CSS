@@ -1,6 +1,14 @@
-
+input:valid{
+  border:2px solid green;
+}
+input:invalid{
+  border: 2px solid red;
+}
 input{
   color: #000000 ;
+  outline: none;
+  border: 2px solid black;
+  transition: all 0.5s;
 }
 p{
 color: White;
@@ -17,6 +25,8 @@ h3{
   height: 254.4px;
   opacity: 0.3;
   background-color: White;
+  border-radius: 10px;
+  box-shadow: 0 5px 30px 10px rgba(0, 0, 0, 0.5);
   position: absolute;
   top: 300px;
   right:800px;
